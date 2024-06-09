@@ -3,10 +3,12 @@
 .idea/
 target/
 .iml
-
+*.idea/
 *target/
 *iml
 idea/
 _.target/
 _.iml*.iml
+*idea/
+_idea/
 
