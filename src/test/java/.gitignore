@@ -1,0 +1,12 @@
+##jdy
+
+.idea/
+target/
+.iml
+
+*target/
+*iml
+idea/
+_.target/
+_.iml*.iml
+
